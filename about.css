@@ -1,0 +1,16 @@
+head,body{
+    margin: 0;
+    padding: 0;
+}
+
+.about{
+    display: flex;
+    width: 100vp;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    font-family: 'raleway',sans-serif;
+    font-weight: bold;
+    font-size: 5vh;
+    box-shadow: 0 2px 4px #aa01ff;
+}
